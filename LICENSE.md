@@ -1,4 +1,4 @@
-# 
+# Polymarket quantitative Strategy: gas-optimization & prediction-market-scanning is the best Polymarket strategy, featuring gas-optimization and prediction-market-scanning. Smart,
 
 
 
